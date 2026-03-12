@@ -1,0 +1,834 @@
+body{
+    background-color: #FFFBF2;
+    overflow-x: hidden;
+}
+.koppee{
+    position: relative;
+    left:15px;
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.home{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    position: relative;
+    bottom: 50px;
+    right: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+.top{
+    background-image:linear-gradient(rgba(1,1,1,0.5), rgba(1,1,1,0.5)),
+ url(images/carousel-2.jpg);
+    width:100%;
+    height: 800px;
+    background-size:1500px;
+}
+.center{
+    color: white;
+    position: relative;
+    left: 600px;
+    top: 100px;
+}
+.p1{
+    font-size: 40px;
+    color: rgb(235, 149, 118);
+    position: relative;
+}
+.h11{
+    font-size: 100px;
+    position: relative;
+    bottom: 40px;
+    right:50px;
+}
+.p2{
+    font-size:30px;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    font-weight:bolder;
+}
+
+.p3{
+    position: relative;
+    top: 250px;
+    left: 690px;
+    color: chocolate;
+    font-size: 30px;
+    font-weight: 150px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.about{
+    position: relative;
+    bottom: 200px;
+    font-size: 30px;
+    
+    
+}
+.h12{
+    position: relative;
+    top: 250px;
+    left: 600px;
+   
+}
+.story{
+    margin: 3px;
+    border: 2px;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 320px;
+    left: 200px;
+}
+.b1{
+    width: 130px;
+    height: 40px;
+    background-color: rgb(54, 28, 28);
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: 280px;
+    left: 210px;
+}
+.h14{
+    position: relative;
+    left: 1000px;
+    bottom: 60px;
+}
+.p6{
+    position:relative;
+    left: 1000px;
+    bottom: 50px;
+}
+.p7{
+    position: relative;
+    left: 1000px;
+    bottom: 80px;
+}
+.b2{
+    width: 130px;
+    height: 40px;
+    background-color: rgb(228, 157, 24);
+    color: white;
+    font-size: 15px;
+    position: relative;
+    left: 1150px;
+    bottom:70px;
+}
+.vision{
+    margin: 3px;
+    border: 2px;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 150px;
+}
+.img{
+   position: relative;
+   left: 500px;
+   bottom: 600px;
+}
+.p8{
+    color: crimson;
+    position:relative;
+    bottom: 300px;
+    left: 600px;
+    font-size: 30px;
+    font-weight:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.h15{
+    position: relative;
+    bottom: 300px;
+    left: 500px;
+    font-size: 50px;
+}
+.pic1{
+     position: relative;
+     left: 200px;
+     bottom: 270px;
+}
+.truck{
+    position: relative;
+    bottom: 420px;
+    left: 250px;
+    border-radius: 50%;
+    background-color: darksalmon;
+    
+}
+.h61{
+    position: relative;
+    bottom: 520px;
+    left: 530px;
+    font-size: 25px;
+}
+.p9{
+    position: relative;
+    bottom: 550px;
+    left: 480px;
+    width: 250px;
+    font-size: 20px
+    
+}
+.pic2{
+    position: relative;
+    left: 800px;
+    bottom:740px;
+}
+.cup{
+    position: relative;
+    bottom: 890px;
+    left:830px;
+    border-radius:100%;
+}
+.h62{
+    position: relative;
+    left: 1100px;
+    bottom:990px;
+    font-size: 25px;
+}
+.p10{
+    width: 300px;
+    height: 200px;
+    border: 2px;
+    position: relative;
+    left: 1050px;
+    bottom:1020px;
+    font-size: 20px;
+}
+.pic3{
+    position: relative;
+    left:200px;
+    bottom:1000px;
+    
+}
+.cappachino{
+    position: relative;
+    left:250px;
+    bottom: 1140px;
+    border-radius: 50%;
+}
+.h63{
+    position: relative;
+    left: 530px;
+    bottom: 1240px;
+    font-size: 25px;
+}
+.p11{
+    position: relative;
+    left: 470px;
+    bottom: 1260px;
+    width: 280px;
+    font-size: 20px;
+    border: 2px;
+}
+.pic4{
+    position: relative;
+    left:800px;
+    bottom:1470px;
+}
+.table{
+    position: relative;
+    left:850px;
+    bottom: 1600px;
+    border-radius: 50%;
+}
+.h64{
+    position: relative;
+    left: 1120px;
+    bottom: 1700px;
+    font-size: 25px;
+}
+.p12{
+    position: relative;
+    left: 1080px;
+    bottom: 1730px;
+    width: 280px;
+    font-size: 20px;
+    border: 2px;
+}
+.offer{
+    background-image:linear-gradient(rgba(1,1,1,0.5), rgba(1,1,1,0.5)),
+url(https://themewagon.github.io/Koppee/img/bg.jpg);
+    position: relative;
+    bottom: 1500px;
+    height: 550px;
+}
+.h16{
+    color: chocolate;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.p13{
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.p14{
+    position: relative;
+    top: 30px;
+    left: 450px;
+    color:white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mail{
+    position: relative;
+    left: 550px;
+    top: 40px;
+}
+input{
+    height: 50px;
+    width: 200px;
+    font-size: larger;
+    
+}
+.b3{
+    width:100px;
+    height: 55px;
+    position: relative;
+    right: 5px;
+    background-color: rgb(206, 135, 84);
+    font-size: 15px;
+    border: 0px;
+    bottom: 1px;
+}
+.types{
+    height:1000px;
+    width: 100%;
+    position: relative;
+    bottom: 1300px;
+}
+.h65{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    color: crimson;
+}
+.h17{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.hot{
+    position: relative;
+    left: 180px;
+    top: 50px;
+}
+.s1{
+    position: relative;
+    right: 200px;
+    border-radius: 50%;
+    display: flex;
+    z-index: 10px;
+}
+.r1{
+    position:relative;
+    right:90px;
+    bottom: 150px;
+    display: flex;
+    z-index: 3px;
+    border-radius: 50%;
+}
+.h66{
+    position: relative;
+    bottom:220px;
+    left:10px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.p15{
+    position: relative;
+    bottom: 250px;
+    font-size: 20px;
+    margin: 2px;
+    border: 2px;
+    width: 390px;
+}
+.s2{
+    position: relative;
+    right: 200px;
+    bottom: 160px;
+    border-radius: 50%;
+    display: flex;
+    z-index: 10px;
+}
+.r2{
+   position:relative;
+    right:80px;
+    bottom: 310px;
+    display: flex;
+    z-index: 3px;
+    border-radius: 50%;
+} 
+.h67{
+    position: relative;
+    bottom: 380px;
+    left: 5px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.p16{
+    position: relative;
+    bottom: 400px;
+    font-size: 20px;
+    margin: 2px;
+    border: 2px;
+    width: 390px;
+}
+.s3{
+    position: relative;
+    right: 200px;
+    bottom: 320px;
+    border-radius: 50%;
+    display: flex;
+    z-index: 10px;
+}
+.r3{
+   position:relative;
+    right:80px;
+    bottom: 420px;
+    display: flex;
+    z-index: 3px;
+    border-radius: 50%;
+} 
+.h68{
+    position: relative;
+    bottom: 500px;
+    left: 5px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.p17{
+    position: relative;
+    bottom:530px;
+    font-size: 20px;
+    margin: 2px;
+    border: 2px;
+    width: 390px;
+}
+.s4{
+    position: relative;
+    right: 200px;
+    bottom: 330px;
+    border-radius: 50%;
+    display: flex;
+    z-index: 10px;
+}
+.r4{
+   position:relative;
+    right:80px;
+    bottom: 470px;
+    display: flex;
+    z-index: 3px;
+    border-radius: 50%;
+} 
+.h69{
+    position: relative;
+    bottom: 540px;
+    left: 5px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.p18{
+    position: relative;
+    bottom:580px;
+    font-size: 20px;
+    margin: 2px;
+    border: 2px;
+    width: 390px;
+}
+.s5{
+    position: relative;
+    right: 200px;
+    bottom: 320px;
+    border-radius: 50%;
+    display: flex;
+    z-index: 10px;
+}
+.r5{
+   position:relative;
+    right:80px;
+    bottom: 470px;
+    display: flex;
+    z-index: 3px;
+    border-radius: 50%;
+} 
+.h610{
+    position: relative;
+    bottom: 530px;
+    left: 5px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.p19{
+    position: relative;
+    bottom:550px;
+    font-size: 20px;
+    margin: 2px;
+    border: 2px;
+    width: 390px;
+}
+.s6{
+    position: relative;
+    right: 200px;
+    bottom: 340px;
+    border-radius: 50%;
+    display: flex;
+    z-index: 10px;
+}
+.r6{
+   position:relative;
+    right:80px;
+    bottom: 470px;
+    display: flex;
+    z-index: 3px;
+    border-radius: 50%;
+} 
+.h611{
+    position: relative;
+    bottom: 530px;
+    left: 5px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.p20{
+    position: relative;
+    bottom:550px;
+    font-size: 20px;
+    margin: 2px;
+    border: 2px;
+    width: 390px;
+}
+.black2{
+    position: relative;
+    left: 750px;
+    bottom: 900px;
+}
+.chocolate2{
+    position: relative;
+    left: 750px;
+    bottom: 1080px;
+}
+.cmilk2{
+    position: relative;
+    left: 750px;
+    bottom:1200px;
+}
+.h22{
+    position: relative;
+    bottom: 1270px;
+    left: 600px;
+    font-size: 35px;
+}
+.h21{
+    font-size: 35px;
+    position: relative;
+    top: 10px;
+}
+.booking{
+    background-color: aqua;
+    position: relative;
+    bottom: 1100px;
+    width: 1200px;
+    height: 600px;
+    left: 100px;
+    right:900px;
+    background-image:
+    linear-gradient(rgba(1,1,1,0.5), rgba(1,1,1,0.5)), url(https://themewagon.github.io/Koppee/img/bg.jpg);
+}
+.p21{
+    position: relative;
+    left: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:chocolate;
+    top: 50px;
+    
+}
+.p22{
+    position:relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    margin: 2px;
+    border: 2px black;
+    width: 450px;
+    left: 80px;
+    top: 80px;
+    color: white;
+}
+.h118{
+    position: relative;
+    left:600px;
+    top: 50px;
+    font-size: 50px;
+}
+.p23{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    position: relative;
+    left: 80px;
+    top: 90px;
+    color: white;
+}
+.reg{
+    position: relative;
+    bottom: 1650px;
+    left:800px;
+}
+.i2{
+    width: 400px;
+}
+.b4{
+    width: 400px;
+    height: 60px;
+    background-color: chocolate;
+    font-size: 20px;
+    border: 0px;
+}
+.people{
+    position: relative;
+    bottom: 1200px;
+    
+    
+}
+.p24{
+    position: relative;
+    left:700px;
+    top: 30px;
+    font-size: 30px;
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h18{
+    font-size: 60px;
+    color: white;
+}
+.h19{
+    color: white;
+}
+.test1{
+    position: relative;
+    left: 220px;
+    top: 80px;
+}
+.h612{
+    position: relative;
+    left: 350px;
+    bottom: 60px;
+    font-size: 30px;
+}
+.p25{
+    position: relative;
+    left: 220px;
+    margin: 2px;
+    border: 2px ;
+    width: 300px;
+    font-size: 20px;
+    bottom: 90px;
+}
+.test2{
+    position: relative;
+    left: 220px;
+    top: 80px;
+}
+.h613{
+    position: relative;
+    left: 350px;
+    bottom: 60px;
+    font-size: 30px;
+}
+.p26{
+    position: relative;
+    left: 220px;
+    margin: 2px;
+    border: 2px ;
+    width: 300px;
+    font-size: 20px;
+    bottom: 90px;
+}
+.test3{
+    position: relative;
+    left: 220px;
+    top: 80px;
+}
+.h614{
+    position: relative;
+    left: 350px;
+    bottom: 60px;
+    font-size: 30px;
+}
+.p27{
+    position: relative;
+    left: 220px;
+    margin: 2px;
+    border: 2px ;
+    width: 300px;
+    font-size: 20px;
+    bottom: 90px;
+}
+.pp2{
+    position: relative;
+    left: 450px;
+    bottom: 320px;
+}
+.pp3{
+    position: relative;
+    left: 900px;
+    bottom: 640px;
+}
+.footer{
+    background-image:linear-gradient(rgba(1,1,1,0.5), rgba(1,1,1,0.5)),url(https://themewagon.github.io/Koppee/img/bg.jpg);
+    width:100%;
+    height:500px;
+    position: relative;
+    bottom: 1500px;
+}
+.h31{
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-size: 25px;
+    color: white;
+}
+.fa-location-dot {
+    position: relative;
+    top: 20px;
+    left:45px;
+    color: white;
+}
+.p28{
+    position: relative;
+    left: 75px;
+    bottom:15px;
+    font-size: 18px;
+    color: white;
+}
+.fa-phone{
+   position: relative; 
+   bottom: 20px;
+   left: 45px;
+   color: white;
+}
+.p29{
+    position: relative;
+    left: 75px;
+    bottom: 55px;
+    color: white;
+}
+.fa-envelope{
+    position: relative;
+    left: 45px;
+    bottom: 55px;
+    color: white;
+}
+.p30{
+    position: relative;
+    bottom:90px;
+    color: white;
+    left: 80px;
+}
+.get{
+    position: relative;
+    top: 60px;
+}
+.h32{
+    position: relative;
+    left: 450px;
+    bottom: 195px;
+    color: white;
+    font-size: 25px;
+}
+.p31{
+    color: white;
+    position:relative;
+    left: 450px;
+    bottom: 200px;
+    
+}
+.fa-brands{
+    color: white;
+    position:relative;
+    bottom: 200px;
+    left: 450px;   
+}
+.follow{
+    margin: 2px;
+    border: 2px;
+    width: 200px;
+}
+.open{
+    border: 2px;
+    width: 200px;
+    padding: 4px;
+    position: relative;
+    bottom: 370px;
+    left: 750px;
+    color: white;
+    font-size: 20px;
+    
+}
+.b5{
+    width:100px;
+    height: 55px;
+    position: relative;
+    right: 5px;
+    background-color: rgb(206, 135, 84);
+    font-size: 15px;
+    border: 0px;
+    bottom: 1px;
+}
+.news{
+    position: relative;
+    left: 1050px;
+    bottom: 620px;
+    width: 400px;
+}
+.h34{
+    color: white;
+    font-size: 25px;
+}
+.p33{
+    font-size: 20px;
+    color:white;
+}
+.copy{
+    position: relative;
+    left: 550px;
+    bottom: 500px;
+}
+.p34{
+    color: white;
+    font-size: 20px;
+}
+.p35{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    right: 30px;
+}
